@@ -1,5 +1,4 @@
 import React from "react";
-import { StyleSheet, Text, View } from "react-native";
 import Routes from "./Routes";
 
 const Providers = () => {
@@ -7,5 +6,3 @@ const Providers = () => {
 };
 
 export default Providers;
-
-const styles = StyleSheet.create({});
